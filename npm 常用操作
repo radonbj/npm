@@ -1,0 +1,13 @@
+全局安装包： npm install name -g
+
+本地安装包: npm install name
+
+查看本地安装全局包: npm install name --save-dev
+
+查看当前目录下的包：npm list
+
+查看全局安装的包：npm list -g --depth 0
+
+删除全局包：npm uninstall name -g
+
+删除本地包:npm uninstall naem
